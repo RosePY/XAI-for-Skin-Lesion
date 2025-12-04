@@ -1,0 +1,42 @@
+Elevation:flat
+Elevation:nodular
+Elevation:palpable
+Global_feature:cobblestone pattern
+Global_feature:globular pattern
+Global_feature:homogeneous pattern
+Global_feature:lacunar pattern
+Global_feature:multicomponent pattern
+Global_feature:parallel pattern
+Global_feature:reticular pattern
+Global_feature:starburst pattern
+Global_feature:unspecific pattern
+Pigment_net:absent
+Pigment_net:atypical
+Pigment_net:typical
+Dots_globules:absent
+Dots_globules:irregular
+Dots_globules:regular
+Streaks:absent
+Streaks:irregular
+Streaks:regular
+BW_Veil:present
+Pigmentation:absent
+Pigmentation:diffuse irregular
+Pigmentation:diffuse regular
+Pigmentation:localized irregular
+Pigmentation:localized regular
+Hypopigmentation:absent
+Hypopigmentation:diffuse
+Hypopigmentation:focal
+Hypopigmentation:multifocal
+Regression_structures:absent
+Regression_structures:blue areas
+Regression_structures:combinations
+Regression_structures:white areas
+Vascular_structures:absent
+Vascular_structures:arborizing
+Vascular_structures:comma
+Vascular_structures:dotted
+Vascular_structures:hairpin
+Vascular_structures:linear-irregular
+Vascular_structures:within regression
