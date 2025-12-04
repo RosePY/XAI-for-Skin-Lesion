@@ -1,0 +1,931 @@
+image,dataset,sex,age,site,diag,benign_malignant,fold,label,dataset_original
+ISIC_0033765,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0033764,HAM10000,male,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031723,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0028672,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026344,HAM10000,male,40,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025595,HAM10000,female,45,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0026802,HAM10000,male,85,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0027385,HAM10000,male,20,None,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0026513,HAM10000,male,60,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033718,HAM10000,male,45,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0025229,HAM10000,female,30,None,nevus,benign,val,0,HAM10000
+ISIC_0030358,HAM10000,male,60,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0024724,HAM10000,male,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033584,HAM10000,female,30,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033209,HAM10000,male,65,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0028073,HAM10000,female,30,None,nevus,benign,val,0,HAM10000
+ISIC_0027384,HAM10000,male,60,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028519,HAM10000,male,80,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0029113,HAM10000,male,55,anterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0027406,HAM10000,female,75,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0032584,HAM10000,female,35,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033834,HAM10000,female,75,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0030048,HAM10000,male,30,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031807,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0033309,HAM10000,male,75,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028664,HAM10000,male,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030196,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027481,HAM10000,male,65,None,nevus,benign,val,0,HAM10000
+ISIC_0026440,HAM10000,male,55,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0025173,HAM10000,female,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028523,HAM10000,male,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027462,HAM10000,male,75,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029631,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0026183,HAM10000,male,35,None,nevus,benign,val,0,HAM10000
+ISIC_0026166,HAM10000,male,55,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0032612,HAM10000,female,10,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027336,HAM10000,male,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031593,HAM10000,male,65,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0024395,HAM10000,female,60,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025814,HAM10000,male,65,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0033582,HAM10000,male,85,None,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0024951,HAM10000,male,70,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0033094,HAM10000,male,35,None,nevus,benign,val,0,HAM10000
+ISIC_0033481,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0032960,HAM10000,male,50,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0032301,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0028480,HAM10000,male,55,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028561,HAM10000,male,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027965,HAM10000,male,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033085,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028960,HAM10000,female,35,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030667,HAM10000,male,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027889,HAM10000,female,70,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032458,HAM10000,male,55,None,nevus,benign,val,0,HAM10000
+ISIC_0029613,HAM10000,female,85,anterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0029901,HAM10000,male,35,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031546,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025498,HAM10000,male,30,None,nevus,benign,val,0,HAM10000
+ISIC_0029716,HAM10000,female,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0034164,HAM10000,male,25,None,nevus,benign,val,0,HAM10000
+ISIC_0029945,HAM10000,male,80,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029850,HAM10000,female,60,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029900,HAM10000,male,60,head/neck,actinic keratosis,noinfo,val,0,HAM10000
+ISIC_0032166,HAM10000,male,40,None,nevus,benign,val,0,HAM10000
+ISIC_0024920,HAM10000,male,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027397,HAM10000,male,60,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029300,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0027791,HAM10000,male,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0034305,HAM10000,male,65,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0033915,HAM10000,female,30,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0032052,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026779,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0029349,HAM10000,female,25,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026026,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0030633,HAM10000,male,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025830,HAM10000,male,80,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0033168,HAM10000,male,65,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027073,HAM10000,male,55,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031252,HAM10000,male,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025151,HAM10000,male,30,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031654,HAM10000,female,15,None,nevus,benign,val,0,HAM10000
+ISIC_0029024,HAM10000,male,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026498,HAM10000,female,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026672,HAM10000,male,80,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025913,HAM10000,male,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024376,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0034300,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033562,HAM10000,male,60,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0027573,HAM10000,male,55,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0025729,HAM10000,male,30,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024382,HAM10000,male,70,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0027283,HAM10000,female,50,None,nevus,benign,val,0,HAM10000
+ISIC_0027562,HAM10000,female,60,head/neck,actinic keratosis,noinfo,val,0,HAM10000
+ISIC_0025727,HAM10000,male,40,None,nevus,benign,val,0,HAM10000
+ISIC_0029289,HAM10000,female,60,None,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0025761,HAM10000,female,65,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0029188,HAM10000,female,60,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027702,HAM10000,female,70,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0027581,HAM10000,female,35,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0029874,HAM10000,male,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027423,HAM10000,male,65,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0032587,HAM10000,female,15,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033964,HAM10000,male,40,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029132,HAM10000,male,55,None,nevus,benign,val,0,HAM10000
+ISIC_0027654,HAM10000,female,20,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031471,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027809,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0034157,HAM10000,male,25,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029819,HAM10000,female,70,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0025064,HAM10000,female,35,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0032323,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0026373,HAM10000,male,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026210,HAM10000,male,25,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033796,HAM10000,male,55,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029577,HAM10000,male,65,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024540,HAM10000,female,25,None,nevus,benign,val,0,HAM10000
+ISIC_0028294,HAM10000,female,75,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0029005,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0024340,HAM10000,female,10,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024903,HAM10000,female,45,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0029797,HAM10000,male,35,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0027605,HAM10000,male,60,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026157,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030116,HAM10000,male,60,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0026774,HAM10000,female,70,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0030252,HAM10000,female,25,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024592,HAM10000,female,40,anterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0032535,HAM10000,male,65,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0029866,HAM10000,male,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033840,HAM10000,female,60,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0026976,HAM10000,male,60,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0026162,HAM10000,male,40,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030172,HAM10000,male,55,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0033127,HAM10000,female,85,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0027183,HAM10000,male,25,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0027931,HAM10000,female,60,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033222,HAM10000,male,55,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025920,HAM10000,female,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026775,HAM10000,male,75,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0027817,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0028355,HAM10000,female,30,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0025706,HAM10000,male,40,None,nevus,benign,val,0,HAM10000
+ISIC_0028878,HAM10000,male,55,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0026853,HAM10000,male,65,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0032121,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0032794,HAM10000,female,30,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033445,HAM10000,male,70,None,nevus,benign,val,0,HAM10000
+ISIC_0030089,HAM10000,female,55,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0033651,HAM10000,female,60,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0026503,HAM10000,female,55,None,nevus,benign,val,0,HAM10000
+ISIC_0030587,HAM10000,female,30,None,nevus,benign,val,0,HAM10000
+ISIC_0025289,HAM10000,male,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024647,HAM10000,female,85,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0034317,HAM10000,female,70,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0030655,HAM10000,female,60,head/neck,actinic keratosis,noinfo,val,0,HAM10000
+ISIC_0032685,HAM10000,male,75,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0034052,HAM10000,male,50,anterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0031201,HAM10000,male,45,None,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0029841,HAM10000,male,55,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0028037,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0027909,HAM10000,female,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030390,HAM10000,female,55,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0024560,HAM10000,male,65,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029196,HAM10000,male,25,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033728,HAM10000,male,80,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0025633,HAM10000,male,60,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028081,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0028888,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0026945,HAM10000,male,80,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026984,HAM10000,male,50,head/neck,actinic keratosis,noinfo,val,0,HAM10000
+ISIC_0030799,HAM10000,female,50,None,nevus,benign,val,0,HAM10000
+ISIC_0025709,HAM10000,male,65,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0028697,HAM10000,male,80,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027564,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0028844,HAM10000,female,30,None,nevus,benign,val,0,HAM10000
+ISIC_0026141,HAM10000,female,60,None,nevus,benign,val,0,HAM10000
+ISIC_0033827,HAM10000,female,35,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024955,HAM10000,female,30,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031966,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030846,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0025538,HAM10000,male,55,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028091,HAM10000,male,5,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0026391,HAM10000,male,30,None,nevus,benign,val,0,HAM10000
+ISIC_0029737,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0026601,HAM10000,male,25,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033489,HAM10000,male,35,None,nevus,benign,val,0,HAM10000
+ISIC_0024908,HAM10000,male,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033338,HAM10000,female,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028771,HAM10000,male,80,None,nevus,benign,val,0,HAM10000
+ISIC_0024355,HAM10000,male,35,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0026538,HAM10000,male,80,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0032138,HAM10000,female,35,lower extremity,dermatofibroma,noinfo,val,0,HAM10000
+ISIC_0032870,HAM10000,male,85,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0030961,HAM10000,female,35,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028745,HAM10000,female,60,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025881,HAM10000,male,70,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0028290,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026032,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0025707,HAM10000,male,35,None,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0028920,HAM10000,male,75,anterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0033807,HAM10000,female,65,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0027350,HAM10000,male,60,anterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0026726,HAM10000,male,75,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032792,HAM10000,female,20,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033844,HAM10000,female,70,lower extremity,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0030880,HAM10000,male,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033864,HAM10000,female,0,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027095,HAM10000,male,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030825,HAM10000,male,40,head/neck,actinic keratosis,noinfo,val,0,HAM10000
+ISIC_0025304,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026252,HAM10000,male,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028403,HAM10000,male,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0029126,HAM10000,male,60,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030957,HAM10000,female,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0034129,HAM10000,male,60,None,nevus,benign,val,0,HAM10000
+ISIC_0029293,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0026352,HAM10000,female,40,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0033262,HAM10000,female,60,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0028463,HAM10000,female,60,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0024786,HAM10000,male,70,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0032152,HAM10000,male,50,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0030302,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0028487,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027977,HAM10000,male,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030739,HAM10000,female,30,None,nevus,benign,val,0,HAM10000
+ISIC_0028817,HAM10000,male,60,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030760,HAM10000,female,55,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0026268,HAM10000,male,80,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0030312,HAM10000,male,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026712,HAM10000,female,65,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026922,HAM10000,female,60,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0026305,HAM10000,male,60,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030432,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027602,HAM10000,male,40,None,nevus,benign,val,0,HAM10000
+ISIC_0031717,HAM10000,male,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0034319,HAM10000,male,30,None,nevus,benign,val,0,HAM10000
+ISIC_0032004,HAM10000,male,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027793,HAM10000,female,35,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0026105,HAM10000,male,65,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0034253,HAM10000,male,60,anterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0031333,HAM10000,female,50,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0032358,HAM10000,female,50,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0031021,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030629,HAM10000,male,20,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030476,HAM10000,female,55,None,nevus,benign,val,0,HAM10000
+ISIC_0025867,HAM10000,male,60,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0025719,HAM10000,male,40,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0032488,HAM10000,male,55,None,nevus,benign,val,0,HAM10000
+ISIC_0026371,HAM10000,male,30,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0028389,HAM10000,male,40,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0027877,HAM10000,male,25,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029483,HAM10000,female,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027130,HAM10000,male,70,anterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0024527,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0029133,HAM10000,female,65,head/neck,actinic keratosis,noinfo,val,0,HAM10000
+ISIC_0028082,HAM10000,female,40,anterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0026042,HAM10000,male,75,anterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0027016,HAM10000,female,40,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0032881,HAM10000,male,55,None,nevus,benign,val,0,HAM10000
+ISIC_0032335,HAM10000,male,80,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0029916,HAM10000,male,60,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025510,HAM10000,female,35,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0025403,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0034008,HAM10000,female,45,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0034211,HAM10000,male,45,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0027253,HAM10000,male,75,None,melanoma,malignant,val,1,HAM10000
+ISIC_0029791,HAM10000,female,70,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0025398,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0033216,HAM10000,female,30,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0029960,HAM10000,female,55,None,nevus,benign,val,0,HAM10000
+ISIC_0027800,HAM10000,female,60,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032835,HAM10000,male,85,None,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0026171,HAM10000,female,60,head/neck,actinic keratosis,noinfo,val,0,HAM10000
+ISIC_0024693,HAM10000,female,45,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0033390,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033067,HAM10000,male,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025678,HAM10000,male,30,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025000,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030179,HAM10000,male,35,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025464,HAM10000,male,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025250,HAM10000,male,30,head/neck,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0024902,HAM10000,male,25,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0034272,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0029176,HAM10000,male,60,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0026228,HAM10000,female,55,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026838,HAM10000,female,40,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028500,HAM10000,female,30,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026714,HAM10000,male,75,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0026934,HAM10000,male,20,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027232,HAM10000,female,75,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026926,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0027070,HAM10000,male,30,None,nevus,benign,val,0,HAM10000
+ISIC_0027921,HAM10000,male,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024960,HAM10000,male,80,None,nevus,benign,val,0,HAM10000
+ISIC_0031681,HAM10000,female,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033226,HAM10000,male,65,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0029766,HAM10000,female,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026685,HAM10000,female,70,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0028278,HAM10000,male,40,None,nevus,benign,val,0,HAM10000
+ISIC_0026595,HAM10000,male,35,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024904,HAM10000,male,75,upper extremity,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0031260,HAM10000,male,75,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028167,HAM10000,female,65,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033098,HAM10000,male,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031542,HAM10000,male,45,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030934,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0026680,HAM10000,male,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025764,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033902,HAM10000,male,75,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0031141,HAM10000,female,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032303,HAM10000,male,70,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0025993,HAM10000,female,25,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029956,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0029909,HAM10000,female,75,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0026963,HAM10000,male,65,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0030481,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0028615,HAM10000,male,40,None,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0029077,HAM10000,female,30,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027779,HAM10000,male,70,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025949,HAM10000,male,60,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031345,HAM10000,female,80,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0032122,HAM10000,male,35,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030163,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026077,HAM10000,male,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024722,HAM10000,female,65,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0025918,HAM10000,male,75,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024685,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0029265,HAM10000,male,85,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0030053,HAM10000,female,65,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0032351,HAM10000,male,55,None,nevus,benign,val,0,HAM10000
+ISIC_0029443,HAM10000,male,65,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0028711,HAM10000,male,55,None,nevus,benign,val,0,HAM10000
+ISIC_0032241,HAM10000,male,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027345,HAM10000,female,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0034006,HAM10000,female,45,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0026150,HAM10000,female,50,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0028645,HAM10000,male,75,None,nevus,benign,val,0,HAM10000
+ISIC_0030393,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0026387,HAM10000,female,65,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0029961,HAM10000,male,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025099,HAM10000,male,60,anterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0033703,HAM10000,female,40,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0028922,HAM10000,male,80,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025954,HAM10000,male,40,lower extremity,dermatofibroma,noinfo,val,0,HAM10000
+ISIC_0024822,HAM10000,male,65,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032967,HAM10000,male,50,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030482,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0026472,HAM10000,female,50,None,nevus,benign,val,0,HAM10000
+ISIC_0025156,HAM10000,male,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032539,HAM10000,male,55,None,nevus,benign,val,0,HAM10000
+ISIC_0033033,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025297,HAM10000,female,75,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0026839,HAM10000,male,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026046,HAM10000,female,70,None,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0024308,HAM10000,female,55,None,nevus,benign,val,0,HAM10000
+ISIC_0028609,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033283,HAM10000,female,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033944,HAM10000,male,60,None,nevus,benign,val,0,HAM10000
+ISIC_0029777,HAM10000,female,30,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031962,HAM10000,male,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033843,HAM10000,male,80,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0032428,HAM10000,male,60,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0029620,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0025688,HAM10000,female,50,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028287,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0028074,HAM10000,male,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033755,HAM10000,female,35,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031202,HAM10000,male,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030625,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024574,HAM10000,female,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0028406,HAM10000,male,80,anterior torso,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0028516,HAM10000,female,70,None,nevus,benign,val,0,HAM10000
+ISIC_0033059,HAM10000,male,35,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0033662,HAM10000,female,70,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0026633,HAM10000,male,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026703,HAM10000,male,65,None,nevus,benign,val,0,HAM10000
+ISIC_0029415,HAM10000,male,65,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025870,HAM10000,female,70,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033106,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027925,HAM10000,male,30,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031197,HAM10000,male,20,upper extremity,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0031244,HAM10000,female,40,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0031551,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026398,HAM10000,male,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026684,HAM10000,female,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029579,HAM10000,female,30,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0033212,HAM10000,female,50,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0034091,HAM10000,female,40,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0025287,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030900,HAM10000,female,75,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026728,HAM10000,male,65,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0032630,HAM10000,male,70,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0028957,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0034181,HAM10000,male,55,None,nevus,benign,val,0,HAM10000
+ISIC_0033833,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025461,HAM10000,male,55,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0034204,HAM10000,male,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0034244,HAM10000,female,20,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030741,HAM10000,female,35,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031512,HAM10000,male,75,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031102,HAM10000,female,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030445,HAM10000,male,75,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0031932,HAM10000,male,25,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030554,HAM10000,female,65,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024726,HAM10000,male,65,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030103,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0029016,HAM10000,female,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0028265,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0028475,HAM10000,male,35,None,nevus,benign,val,0,HAM10000
+ISIC_0029370,HAM10000,female,85,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0028593,HAM10000,female,55,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0033144,HAM10000,male,85,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024398,HAM10000,female,65,None,nevus,benign,val,0,HAM10000
+ISIC_0026476,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031599,HAM10000,male,25,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032998,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025296,HAM10000,female,50,None,nevus,benign,val,0,HAM10000
+ISIC_0028343,HAM10000,male,30,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0026614,HAM10000,male,45,anterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0032300,HAM10000,female,noinfo,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025534,HAM10000,male,60,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032699,HAM10000,male,65,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0024652,HAM10000,female,85,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0032544,HAM10000,male,60,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0025701,HAM10000,female,35,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031735,HAM10000,male,80,upper extremity,dermatofibroma,noinfo,val,0,HAM10000
+ISIC_0031278,HAM10000,male,70,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031472,HAM10000,female,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033911,HAM10000,male,35,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0033695,HAM10000,female,45,lower extremity,dermatofibroma,noinfo,val,0,HAM10000
+ISIC_0026824,HAM10000,male,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033543,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0025193,HAM10000,male,5,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0027828,HAM10000,male,40,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030664,HAM10000,male,70,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0032681,HAM10000,male,70,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0034178,HAM10000,male,20,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029829,HAM10000,male,60,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031227,HAM10000,male,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027383,HAM10000,male,75,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027236,HAM10000,female,35,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0025121,HAM10000,female,50,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0032389,HAM10000,male,65,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0032733,HAM10000,male,70,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0025894,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031242,HAM10000,female,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027011,HAM10000,male,65,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033910,HAM10000,male,75,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0033356,HAM10000,female,30,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025527,HAM10000,male,65,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032115,HAM10000,female,45,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0025041,HAM10000,male,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028485,HAM10000,male,40,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0034124,HAM10000,female,30,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027499,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0025288,HAM10000,female,65,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024630,HAM10000,male,85,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0029750,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0026039,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032512,HAM10000,female,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024627,HAM10000,male,75,None,nevus,benign,val,0,HAM10000
+ISIC_0032625,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026780,HAM10000,male,50,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0033950,HAM10000,female,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0034235,HAM10000,male,80,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0032257,HAM10000,male,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0029717,HAM10000,female,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025579,HAM10000,female,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026537,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0026425,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0034063,HAM10000,male,25,None,nevus,benign,val,0,HAM10000
+ISIC_0027816,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0029158,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0026123,HAM10000,female,40,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033920,HAM10000,female,25,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0032328,HAM10000,male,5,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0029727,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0028599,HAM10000,male,70,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032875,HAM10000,male,75,anterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0033219,HAM10000,female,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027387,HAM10000,female,45,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0033322,HAM10000,female,85,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030912,HAM10000,female,70,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026320,HAM10000,female,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024865,HAM10000,male,55,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0031550,HAM10000,female,80,anterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0030830,HAM10000,female,50,None,dermatofibroma,noinfo,val,0,HAM10000
+ISIC_0025132,HAM10000,male,80,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0030340,HAM10000,male,75,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026005,HAM10000,male,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027555,HAM10000,female,60,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032975,HAM10000,female,70,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0033597,HAM10000,None,noinfo,None,nevus,benign,val,0,HAM10000
+ISIC_0026124,HAM10000,male,75,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028574,HAM10000,female,40,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024639,HAM10000,male,60,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031832,HAM10000,male,75,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028072,HAM10000,male,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032990,HAM10000,female,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032416,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027151,HAM10000,female,0,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030119,HAM10000,female,75,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0033331,HAM10000,female,30,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032117,HAM10000,female,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033142,HAM10000,male,65,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026145,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0025333,HAM10000,female,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026482,HAM10000,male,65,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032675,HAM10000,male,75,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0027566,HAM10000,male,5,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032537,HAM10000,male,55,anterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0026514,HAM10000,male,65,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030167,HAM10000,male,65,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0028897,HAM10000,female,75,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0029965,HAM10000,female,45,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0029596,HAM10000,male,75,anterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0027315,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0029723,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0026936,HAM10000,female,45,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0032918,HAM10000,male,50,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0032293,HAM10000,female,50,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0026527,HAM10000,female,75,None,nevus,benign,val,0,HAM10000
+ISIC_0024327,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026101,HAM10000,female,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027655,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030295,HAM10000,female,50,None,nevus,benign,val,0,HAM10000
+ISIC_0025397,HAM10000,female,45,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0029256,HAM10000,male,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025736,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027560,HAM10000,female,25,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0030976,HAM10000,male,60,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0029328,HAM10000,male,10,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0029523,HAM10000,female,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031890,HAM10000,male,85,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0030338,HAM10000,female,50,None,nevus,benign,val,0,HAM10000
+ISIC_0032866,HAM10000,female,55,posterior torso,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0027790,HAM10000,female,50,head/neck,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0031371,HAM10000,male,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0034035,HAM10000,female,30,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030505,HAM10000,male,40,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033981,HAM10000,female,45,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0027286,HAM10000,male,75,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031619,HAM10000,male,65,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0027896,HAM10000,male,75,upper extremity,actinic keratosis,noinfo,val,0,HAM10000
+ISIC_0025852,HAM10000,male,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030043,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0030582,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030379,HAM10000,male,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032155,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0028154,HAM10000,male,70,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0024347,HAM10000,female,25,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0025642,HAM10000,male,50,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030005,HAM10000,female,75,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0029984,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0029889,HAM10000,female,40,anterior torso,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0028502,HAM10000,female,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025456,HAM10000,male,30,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0030836,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028189,HAM10000,male,60,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027635,HAM10000,male,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032962,HAM10000,male,30,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031777,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0029336,HAM10000,male,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030228,HAM10000,female,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031790,HAM10000,male,70,None,nevus,benign,val,0,HAM10000
+ISIC_0027620,HAM10000,male,80,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0033129,HAM10000,female,50,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0026769,HAM10000,male,80,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0029825,HAM10000,male,70,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028505,HAM10000,male,75,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0032405,HAM10000,female,35,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0024886,HAM10000,female,55,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0032175,HAM10000,female,50,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028883,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0028128,HAM10000,male,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030106,HAM10000,male,70,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0034118,HAM10000,female,25,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0030572,HAM10000,female,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028808,HAM10000,male,60,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029885,HAM10000,male,35,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0033674,HAM10000,female,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024394,HAM10000,female,20,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024780,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024492,HAM10000,male,60,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025991,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031309,HAM10000,male,55,lower extremity,dermatofibroma,noinfo,val,0,HAM10000
+ISIC_0031027,HAM10000,female,40,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027212,HAM10000,male,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024803,HAM10000,female,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033062,HAM10000,female,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030578,HAM10000,male,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032636,HAM10000,male,85,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0031781,HAM10000,male,40,None,nevus,benign,val,0,HAM10000
+ISIC_0031524,HAM10000,female,60,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030907,HAM10000,female,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028898,HAM10000,female,60,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0030968,HAM10000,male,60,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032034,HAM10000,male,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030852,HAM10000,male,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033493,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030483,HAM10000,male,35,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0034103,HAM10000,female,60,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0026753,HAM10000,male,65,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026861,HAM10000,female,85,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0028307,HAM10000,female,75,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032878,HAM10000,female,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0034166,HAM10000,female,15,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0025078,HAM10000,female,20,None,nevus,benign,val,0,HAM10000
+ISIC_0024317,HAM10000,female,35,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025295,HAM10000,male,80,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029333,HAM10000,male,40,None,nevus,benign,val,0,HAM10000
+ISIC_0025143,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0031195,HAM10000,male,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025781,HAM10000,male,75,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0026750,HAM10000,male,70,None,nevus,benign,val,0,HAM10000
+ISIC_0033656,HAM10000,male,25,None,nevus,benign,val,0,HAM10000
+ISIC_0025543,HAM10000,female,85,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0030447,HAM10000,male,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033828,HAM10000,male,55,None,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0025390,HAM10000,female,50,None,nevus,benign,val,0,HAM10000
+ISIC_0024912,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0033007,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024732,HAM10000,female,50,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0029125,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026777,HAM10000,female,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029232,HAM10000,female,85,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030663,HAM10000,male,30,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026214,HAM10000,male,40,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032757,HAM10000,female,45,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0032647,HAM10000,male,40,None,nevus,benign,val,0,HAM10000
+ISIC_0027539,HAM10000,female,40,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027108,HAM10000,male,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029056,HAM10000,male,85,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0025324,HAM10000,female,45,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0032196,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0031295,HAM10000,male,50,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0030235,HAM10000,female,35,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026037,HAM10000,female,30,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033592,HAM10000,male,50,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0033393,HAM10000,male,60,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0033919,HAM10000,male,65,None,nevus,benign,val,0,HAM10000
+ISIC_0030220,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0033887,HAM10000,female,35,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032564,HAM10000,male,70,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0028295,HAM10000,female,30,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025055,HAM10000,male,45,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028541,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032355,HAM10000,female,65,None,nevus,benign,val,0,HAM10000
+ISIC_0032859,HAM10000,female,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028963,HAM10000,female,30,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032830,HAM10000,male,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027112,HAM10000,female,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033892,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0034042,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033294,HAM10000,male,25,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025947,HAM10000,male,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028305,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033683,HAM10000,female,30,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032247,HAM10000,male,75,lower extremity,dermatofibroma,noinfo,val,0,HAM10000
+ISIC_0032374,HAM10000,female,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030082,HAM10000,male,20,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024816,HAM10000,female,65,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029288,HAM10000,female,75,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0027328,HAM10000,male,65,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0030306,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030415,HAM10000,female,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030464,HAM10000,male,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0034141,HAM10000,male,70,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0026336,HAM10000,male,50,None,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0029194,HAM10000,male,30,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0032143,HAM10000,female,60,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030639,HAM10000,female,30,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0025959,HAM10000,female,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027080,HAM10000,male,65,None,nevus,benign,val,0,HAM10000
+ISIC_0030577,HAM10000,female,60,None,nevus,benign,val,0,HAM10000
+ISIC_0025685,HAM10000,female,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032578,HAM10000,None,noinfo,None,nevus,benign,val,0,HAM10000
+ISIC_0027757,HAM10000,female,10,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026422,HAM10000,male,80,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0033969,HAM10000,female,35,lower extremity,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0030366,HAM10000,female,60,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0024459,HAM10000,male,80,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0029167,HAM10000,female,60,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0030695,HAM10000,male,80,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0027639,HAM10000,male,55,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029017,HAM10000,female,45,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0031969,HAM10000,female,75,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030293,HAM10000,male,60,None,nevus,benign,val,0,HAM10000
+ISIC_0026313,HAM10000,male,50,lower extremity,dermatofibroma,noinfo,val,0,HAM10000
+ISIC_0032002,HAM10000,male,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033255,HAM10000,female,5,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028632,HAM10000,male,60,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0027154,HAM10000,male,80,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030247,HAM10000,male,60,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0026261,HAM10000,female,50,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028628,HAM10000,male,75,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030373,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026663,HAM10000,male,85,anterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0033133,HAM10000,female,5,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033367,HAM10000,male,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029520,HAM10000,female,65,None,nevus,benign,val,0,HAM10000
+ISIC_0028942,HAM10000,female,55,None,nevus,benign,val,0,HAM10000
+ISIC_0025243,HAM10000,female,70,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0025171,HAM10000,female,30,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0029522,HAM10000,male,75,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0029424,HAM10000,female,35,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027996,HAM10000,female,40,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030047,HAM10000,female,70,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0026190,HAM10000,male,70,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026570,HAM10000,female,70,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0032315,HAM10000,male,45,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030837,HAM10000,male,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025972,HAM10000,male,75,None,nevus,benign,val,0,HAM10000
+ISIC_0031265,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0031938,HAM10000,male,60,None,nevus,benign,val,0,HAM10000
+ISIC_0024748,HAM10000,male,45,anterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0025785,HAM10000,female,20,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0034072,HAM10000,male,60,None,nevus,benign,val,0,HAM10000
+ISIC_0032096,HAM10000,female,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026781,HAM10000,female,55,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027658,HAM10000,female,10,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026930,HAM10000,male,60,anterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0029625,HAM10000,male,65,None,nevus,benign,val,0,HAM10000
+ISIC_0032869,HAM10000,male,85,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0034043,HAM10000,female,75,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030332,HAM10000,male,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026259,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0027078,HAM10000,male,75,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029853,HAM10000,male,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025791,HAM10000,male,80,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0033498,HAM10000,female,50,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0026322,HAM10000,male,60,None,nevus,benign,val,0,HAM10000
+ISIC_0029247,HAM10000,male,0,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031865,HAM10000,female,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030793,HAM10000,male,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031769,HAM10000,female,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029380,HAM10000,male,40,None,nevus,benign,val,0,HAM10000
+ISIC_0026109,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0033862,HAM10000,female,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031847,HAM10000,female,40,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033583,HAM10000,female,55,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0028947,HAM10000,male,35,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033955,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031802,HAM10000,male,55,None,nevus,benign,val,0,HAM10000
+ISIC_0025886,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033611,HAM10000,male,65,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0030585,HAM10000,female,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026573,HAM10000,female,60,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025746,HAM10000,female,60,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0033684,HAM10000,male,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028088,HAM10000,female,70,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026675,HAM10000,female,35,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0024521,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0031919,HAM10000,male,65,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026799,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0031005,HAM10000,male,65,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0026788,HAM10000,female,65,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026515,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027624,HAM10000,male,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025869,HAM10000,male,60,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0030620,HAM10000,female,60,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0033232,HAM10000,male,25,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0025565,HAM10000,male,40,None,nevus,benign,val,0,HAM10000
+ISIC_0025463,HAM10000,male,50,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0026244,HAM10000,male,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0034199,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033985,HAM10000,male,70,None,melanoma,malignant,val,1,HAM10000
+ISIC_0033190,HAM10000,None,noinfo,None,nevus,benign,val,0,HAM10000
+ISIC_0028986,HAM10000,female,65,None,nevus,benign,val,0,HAM10000
+ISIC_0027728,HAM10000,male,30,None,nevus,benign,val,0,HAM10000
+ISIC_0031827,HAM10000,male,50,lower extremity,dermatofibroma,noinfo,val,0,HAM10000
+ISIC_0033883,HAM10000,male,55,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0031024,HAM10000,male,50,anterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0024676,HAM10000,female,75,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0031813,HAM10000,female,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0034248,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0031987,HAM10000,female,30,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0025770,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025192,HAM10000,male,35,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0032457,HAM10000,female,35,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031066,HAM10000,male,60,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028264,HAM10000,male,60,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030174,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027068,HAM10000,female,65,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030042,HAM10000,female,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026989,HAM10000,male,55,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0027829,HAM10000,female,55,head/neck,actinic keratosis,noinfo,val,0,HAM10000
+ISIC_0028613,HAM10000,male,35,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024493,HAM10000,male,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0028903,HAM10000,female,0,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028468,HAM10000,male,70,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026786,HAM10000,female,40,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0030987,HAM10000,female,50,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028585,HAM10000,male,30,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030321,HAM10000,male,30,upper extremity,dermatofibroma,noinfo,val,0,HAM10000
+ISIC_0026253,HAM10000,male,80,None,nevus,benign,val,0,HAM10000
+ISIC_0032547,HAM10000,male,55,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0024785,HAM10000,female,45,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026905,HAM10000,male,70,upper extremity,actinic keratosis,noinfo,val,0,HAM10000
+ISIC_0027542,HAM10000,female,75,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024424,HAM10000,male,35,None,nevus,benign,val,0,HAM10000
+ISIC_0028689,HAM10000,male,30,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030683,HAM10000,male,45,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0031283,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0029287,HAM10000,male,50,None,nevus,benign,val,0,HAM10000
+ISIC_0028257,HAM10000,male,35,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031478,HAM10000,male,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032923,HAM10000,male,30,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028588,HAM10000,male,70,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0025843,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0028856,HAM10000,male,65,posterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0025162,HAM10000,male,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032557,HAM10000,male,55,lower extremity,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0031779,HAM10000,female,75,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0030552,HAM10000,male,75,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0032312,HAM10000,female,30,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025522,HAM10000,female,35,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033025,HAM10000,female,30,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0033706,HAM10000,male,45,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0034203,HAM10000,female,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029906,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026532,HAM10000,female,75,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0025329,HAM10000,male,25,None,nevus,benign,val,0,HAM10000
+ISIC_0033492,HAM10000,male,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024552,HAM10000,female,60,lower extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0029460,HAM10000,male,70,head/neck,actinic keratosis,noinfo,val,0,HAM10000
+ISIC_0034277,HAM10000,male,40,None,nevus,benign,val,0,HAM10000
+ISIC_0025560,HAM10000,female,35,None,nevus,benign,val,0,HAM10000
+ISIC_0032520,HAM10000,female,45,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0027725,HAM10000,male,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031894,HAM10000,male,25,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025996,HAM10000,male,60,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0032094,HAM10000,male,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0025662,HAM10000,male,35,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028912,HAM10000,female,50,None,nevus,benign,val,0,HAM10000
+ISIC_0024887,HAM10000,male,35,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0026463,HAM10000,female,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026867,HAM10000,male,55,None,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0028273,HAM10000,female,20,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0031134,HAM10000,male,65,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027652,HAM10000,male,70,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0028452,HAM10000,male,50,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027943,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0027114,HAM10000,female,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024486,HAM10000,male,50,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0024668,HAM10000,female,25,None,nevus,benign,val,0,HAM10000
+ISIC_0026699,HAM10000,male,70,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025129,HAM10000,female,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027933,HAM10000,male,40,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0028862,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025127,HAM10000,male,60,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0026737,HAM10000,female,65,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0029921,HAM10000,male,30,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0030342,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025503,HAM10000,male,40,None,nevus,benign,val,0,HAM10000
+ISIC_0032378,HAM10000,female,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033544,HAM10000,male,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030508,HAM10000,male,30,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030034,HAM10000,female,50,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0028949,HAM10000,male,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0025197,HAM10000,female,50,anterior torso,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0025569,HAM10000,male,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0027883,HAM10000,male,85,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0027988,HAM10000,female,65,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032427,HAM10000,male,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026623,HAM10000,male,70,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0027940,HAM10000,male,40,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032507,HAM10000,female,45,None,nevus,benign,val,0,HAM10000
+ISIC_0032093,HAM10000,male,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031959,HAM10000,female,45,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0029639,HAM10000,female,60,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0024957,HAM10000,male,80,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030248,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0029517,HAM10000,female,60,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033956,HAM10000,male,80,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0025226,HAM10000,male,40,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0027181,HAM10000,female,75,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031568,HAM10000,male,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026517,HAM10000,female,65,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033159,HAM10000,male,65,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033823,HAM10000,female,35,None,nevus,benign,val,0,HAM10000
+ISIC_0030268,HAM10000,male,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026086,HAM10000,male,55,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0028863,HAM10000,male,45,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033899,HAM10000,male,50,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0032338,HAM10000,female,65,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0031540,HAM10000,male,75,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0030950,HAM10000,female,70,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0030470,HAM10000,female,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0024985,HAM10000,female,75,None,nevus,benign,val,0,HAM10000
+ISIC_0032832,HAM10000,female,45,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0026547,HAM10000,male,45,None,nevus,benign,val,0,HAM10000
+ISIC_0029060,HAM10000,male,80,upper extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0030770,HAM10000,female,65,anterior torso,vascular lesion,noinfo,val,0,HAM10000
+ISIC_0027848,HAM10000,female,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0032320,HAM10000,female,50,None,nevus,benign,val,0,HAM10000
+ISIC_0025022,HAM10000,male,40,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0034037,HAM10000,female,60,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0028109,HAM10000,male,65,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0027985,HAM10000,female,55,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0031644,HAM10000,female,85,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028864,HAM10000,female,40,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0028412,HAM10000,male,55,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0029398,HAM10000,female,35,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0026185,HAM10000,male,55,None,nevus,benign,val,0,HAM10000
+ISIC_0026826,HAM10000,female,10,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0031387,HAM10000,male,45,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033312,HAM10000,male,35,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0032188,HAM10000,male,55,anterior torso,nevus,benign,val,0,HAM10000
+ISIC_0029251,HAM10000,female,70,anterior torso,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0028848,HAM10000,female,50,lower extremity,nevus,benign,val,0,HAM10000
+ISIC_0033556,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0025027,HAM10000,female,45,head/neck,nevus,benign,val,0,HAM10000
+ISIC_0031302,HAM10000,female,20,upper extremity,nevus,benign,val,0,HAM10000
+ISIC_0025355,HAM10000,female,35,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0033752,HAM10000,female,50,head/neck,melanoma,malignant,val,1,HAM10000
+ISIC_0026045,HAM10000,male,65,upper extremity,melanoma,malignant,val,1,HAM10000
+ISIC_0033446,HAM10000,male,75,lower extremity,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0029672,HAM10000,male,60,None,nevus,benign,val,0,HAM10000
+ISIC_0024788,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0029769,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0025851,HAM10000,female,80,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0032617,HAM10000,male,75,posterior torso,melanoma,malignant,val,1,HAM10000
+ISIC_0032829,HAM10000,female,40,None,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0028183,HAM10000,female,30,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0026617,HAM10000,female,40,None,nevus,benign,val,0,HAM10000
+ISIC_0025396,HAM10000,female,50,posterior torso,nevus,benign,val,0,HAM10000
+ISIC_0034201,HAM10000,female,45,head/neck,pigmented benign keratosis,noinfo,val,0,HAM10000
+ISIC_0031135,HAM10000,female,55,None,nevus,benign,val,0,HAM10000
+ISIC_0028033,HAM10000,male,55,anterior torso,melanoma,malignant,val,1,HAM10000

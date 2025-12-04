@@ -1,0 +1,213 @@
+image,dataset,sex,age,site,diag,benign_malignant,fold,label,dataset_original
+ISIC_0032879,HAM10000,male,80,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0033405,HAM10000,male,70,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0033568,HAM10000,male,45,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0029933,HAM10000,female,45,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0028352,HAM10000,male,55,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0029172,HAM10000,male,70,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032081,HAM10000,male,85,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0026897,HAM10000,male,75,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0025105,HAM10000,male,65,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0027359,HAM10000,female,45,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0028685,HAM10000,male,55,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0027261,HAM10000,male,75,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0025520,HAM10000,male,65,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0028086,HAM10000,male,60,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0028460,HAM10000,male,65,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0028415,HAM10000,male,60,None,melanoma,malignant,test,1,HAM10000
+ISIC_0028567,HAM10000,female,65,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0024537,HAM10000,male,85,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0033687,HAM10000,male,35,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0032197,HAM10000,male,50,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0034170,HAM10000,female,80,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0027021,HAM10000,male,55,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032441,HAM10000,male,75,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0032610,HAM10000,male,40,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0031778,HAM10000,male,75,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0033240,HAM10000,male,70,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0034159,HAM10000,female,55,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032790,HAM10000,male,65,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0032533,HAM10000,female,30,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0033559,HAM10000,female,80,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0033362,HAM10000,female,85,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0028860,HAM10000,male,65,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033819,HAM10000,male,60,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033323,HAM10000,male,75,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0034188,HAM10000,male,70,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0024624,HAM10000,female,75,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0026916,HAM10000,male,55,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0024823,HAM10000,male,35,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0024929,HAM10000,male,55,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0028718,HAM10000,female,35,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0027552,HAM10000,male,40,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0033670,HAM10000,male,65,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0033942,HAM10000,male,65,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0032098,HAM10000,female,35,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0030747,HAM10000,female,35,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0029146,HAM10000,male,65,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0030754,HAM10000,female,50,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0031565,HAM10000,male,45,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032149,HAM10000,male,50,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0026664,HAM10000,female,65,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0034246,HAM10000,female,65,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032988,HAM10000,female,70,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0029343,HAM10000,male,75,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033814,HAM10000,male,70,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0029780,HAM10000,female,50,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0027487,HAM10000,female,35,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0033287,HAM10000,male,55,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0028326,HAM10000,female,40,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0030134,HAM10000,female,30,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0029914,HAM10000,male,60,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0027102,HAM10000,female,35,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0032936,HAM10000,male,25,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0031543,HAM10000,female,60,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0031177,HAM10000,female,40,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0028069,HAM10000,female,35,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0028777,HAM10000,male,60,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0024367,HAM10000,female,35,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0028442,HAM10000,male,75,None,melanoma,malignant,test,1,HAM10000
+ISIC_0032726,HAM10000,male,65,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0033454,HAM10000,male,75,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0032430,HAM10000,male,55,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0030083,HAM10000,male,65,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0024640,HAM10000,female,55,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0032993,HAM10000,female,35,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0026754,HAM10000,female,65,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0031957,HAM10000,female,70,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0025663,HAM10000,female,75,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0029028,HAM10000,female,85,None,melanoma,malignant,test,1,HAM10000
+ISIC_0028103,HAM10000,female,70,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0027616,HAM10000,female,55,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0034183,HAM10000,male,50,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0027590,HAM10000,female,85,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0033644,HAM10000,male,55,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0025941,HAM10000,male,55,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0024805,HAM10000,male,75,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0030014,HAM10000,male,50,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0033440,HAM10000,male,70,None,melanoma,malignant,test,1,HAM10000
+ISIC_0024482,HAM10000,male,50,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0028916,HAM10000,female,60,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0033120,HAM10000,male,45,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0024351,HAM10000,female,70,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032836,HAM10000,male,50,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0034313,HAM10000,male,55,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0034000,HAM10000,male,75,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033274,HAM10000,female,80,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0025155,HAM10000,male,80,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032736,HAM10000,male,65,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033122,HAM10000,male,55,None,melanoma,malignant,test,1,HAM10000
+ISIC_0029513,HAM10000,male,70,None,melanoma,malignant,test,1,HAM10000
+ISIC_0033957,HAM10000,male,60,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0028965,HAM10000,male,50,None,melanoma,malignant,test,1,HAM10000
+ISIC_0027838,HAM10000,female,35,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0029744,HAM10000,female,35,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0032656,HAM10000,male,80,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0027904,HAM10000,female,55,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0027480,HAM10000,female,55,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0029212,HAM10000,female,75,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0030828,HAM10000,male,75,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0029363,HAM10000,male,80,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0034092,HAM10000,male,65,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0028148,HAM10000,male,85,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0030107,HAM10000,female,20,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0028508,HAM10000,male,75,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033166,HAM10000,female,40,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0027105,HAM10000,male,45,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0030440,HAM10000,female,50,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0026296,HAM10000,male,45,None,melanoma,malignant,test,1,HAM10000
+ISIC_0033320,HAM10000,female,40,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0029913,HAM10000,female,30,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0033204,HAM10000,male,55,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0030910,HAM10000,male,65,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033429,HAM10000,male,75,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0032782,HAM10000,male,70,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0034117,HAM10000,male,70,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0024496,HAM10000,female,60,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032569,HAM10000,male,30,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0027507,HAM10000,male,60,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0029000,HAM10000,male,45,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0031339,HAM10000,male,60,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033717,HAM10000,female,60,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0028746,HAM10000,male,70,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0030539,HAM10000,female,65,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0025235,HAM10000,female,45,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0029318,HAM10000,female,60,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0026647,HAM10000,male,75,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0025316,HAM10000,female,45,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0029281,HAM10000,female,35,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033178,HAM10000,male,55,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0034028,HAM10000,male,55,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0026236,HAM10000,male,70,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032638,HAM10000,male,35,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0026158,HAM10000,male,75,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0034316,HAM10000,male,85,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0025391,HAM10000,male,55,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033029,HAM10000,male,60,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0032922,HAM10000,female,80,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0026094,HAM10000,male,20,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033452,HAM10000,male,70,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033848,HAM10000,female,65,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0033679,HAM10000,male,85,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0032433,HAM10000,female,55,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0025472,HAM10000,male,55,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0027502,HAM10000,male,45,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0028899,HAM10000,male,70,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033975,HAM10000,male,85,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033638,HAM10000,female,40,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0024315,HAM10000,male,55,None,melanoma,malignant,test,1,HAM10000
+ISIC_0028218,HAM10000,male,60,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033802,HAM10000,male,75,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0024962,HAM10000,male,35,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0026438,HAM10000,female,30,None,melanoma,malignant,test,1,HAM10000
+ISIC_0026870,HAM10000,female,75,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0032684,HAM10000,male,50,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0031401,HAM10000,male,50,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0032583,HAM10000,male,70,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0034094,HAM10000,female,55,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0026475,HAM10000,female,40,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0026369,HAM10000,female,30,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0028445,HAM10000,male,75,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0027179,HAM10000,male,85,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0025097,HAM10000,male,55,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0025573,HAM10000,male,80,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0030901,HAM10000,male,55,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0024729,HAM10000,female,55,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032637,HAM10000,female,35,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0028211,HAM10000,male,65,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0030604,HAM10000,male,45,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0030171,HAM10000,male,65,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0029272,HAM10000,female,60,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0028114,HAM10000,female,70,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032730,HAM10000,female,80,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0024644,HAM10000,female,85,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0026745,HAM10000,female,80,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0033619,HAM10000,male,50,None,melanoma,malignant,test,1,HAM10000
+ISIC_0027673,HAM10000,female,70,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032938,HAM10000,male,70,None,melanoma,malignant,test,1,HAM10000
+ISIC_0025603,HAM10000,male,75,None,melanoma,malignant,test,1,HAM10000
+ISIC_0026131,HAM10000,female,75,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0033392,HAM10000,male,85,None,melanoma,malignant,test,1,HAM10000
+ISIC_0030246,HAM10000,male,60,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032400,HAM10000,female,60,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033051,HAM10000,female,25,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0031023,HAM10000,male,60,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0025766,HAM10000,male,50,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0033545,HAM10000,male,45,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032592,HAM10000,male,80,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032981,HAM10000,male,55,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033047,HAM10000,female,25,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0033831,HAM10000,male,70,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033428,HAM10000,male,75,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0029570,HAM10000,female,50,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0030183,HAM10000,male,70,anterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0026868,HAM10000,male,75,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0024546,HAM10000,female,80,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0025904,HAM10000,male,70,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0033399,HAM10000,male,70,posterior torso,melanoma,malignant,test,1,HAM10000
+ISIC_0029453,HAM10000,female,40,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0032698,HAM10000,male,65,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0032509,HAM10000,female,70,lower extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0031931,HAM10000,female,70,head/neck,melanoma,malignant,test,1,HAM10000
+ISIC_0033586,HAM10000,male,65,upper extremity,melanoma,malignant,test,1,HAM10000
+ISIC_0034132,HAM10000,female,70,lower extremity,melanoma,malignant,test,1,HAM10000
