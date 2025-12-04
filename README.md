@@ -1,7 +1,6 @@
 # XAI-for-Skin-Lesion
-Repository for Are Explanations Helpful? A Comparative Analysis of Explainability Methods in Skin Lesion Classifiers paper
+Repository for Are Explanations Helpful? A Comparative Analysis of Explainability Methods in Skin Lesion Classifiers paper (https://ieeexplore.ieee.org/document/10783606)
 
-_Code and models to be added_
 
 ## Experimental Setup for Explainability Methods
 All experiments were conducted on a single NVIDIA Quadro RTX 8000 GPU, with 48 GB of GDDR6 (Graphics Double Data Rate 6) synchronous dynamic RAM.
